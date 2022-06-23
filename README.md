@@ -1,8 +1,8 @@
 ### Olá me chamo Matheus e este é meu perfil do Github
 
--é aqui que deixo meus projetos pessoais salvos,  tanto de cursos como particulares
+- é aqui que deixo meus projetos pessoais salvos,  tanto de cursos como particulares
 
--meus contatos são os seguintes:
+- meus contatos são os seguintes:
 Email: matheusluvison18@outlook.com
 Linkedin: https://www.linkedin.com/in/matheusluvison/
 
